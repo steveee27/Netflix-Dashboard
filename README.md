@@ -8,12 +8,12 @@ Welcome to **InsightFlix**, a comprehensive Tableau dashboard project that explo
 
 ## Table of Contents
 
-1. [Project Overview](#project-overview)
-2. [Features](#features)
-3. [Dashboard Highlights](#dashboard-highlights)
-4. [Technologies Used](#technologies-used)
-5. [How to Access the Dashboard](#how-to-access-the-dashboard)
-6. [License](#license)
+1. [Project Overview](#🚀-project-overview)
+2. [Features](#🔍-features)
+3. [Dashboard Highlights](#🌟-dashboard-highlights)
+4. [Technologies Used](#💻-technologies-used)
+5. [How to Access the Dashboard](#📂-how-to-access-the-dashboard)
+6. [License](#📜-license)
 
 ---
 
